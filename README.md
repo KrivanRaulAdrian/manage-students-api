@@ -98,8 +98,6 @@ Install PHPStan:
 
 ```
 composer require --dev phpstan/phpstan-symfony
-# or
-composer require phpstan/phpstan
 ```
 
 If you also install [phpstan/extension-installer](https://github.com/phpstan/extension-installer) then you're all set!
