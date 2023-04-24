@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/KrivanRaulAdrian/manage-students-api/actions/workflows/continuous-integration.yml/badge.svg?branch=master)](https://github.com/KrivanRaulAdrian/manage-students-api/actions/workflows/continuous-integration.yml)
+
 <p align="center">
   <img align="center" height="200" src=" public/symfony.png">
 </p>
