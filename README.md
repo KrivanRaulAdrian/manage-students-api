@@ -148,3 +148,9 @@ php bin/phpunit
 This command automatically runs your application tests. Each test is a PHP class ending with "Test" (e.g. `BlogControllerTest`) that lives in the `tests/` directory of your application.
 
 </details>
+
+<hr/>
+
+## Learn More
+
+To know more about the development of Symfony applications, [check the official documentation](https://symfony.com/doc/current/index.html).
