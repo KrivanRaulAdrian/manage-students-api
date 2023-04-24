@@ -7,7 +7,7 @@ on:
       - "master"
 
 jobs:
-    phpunit:
+  phpunit:
     name: "PHPUnit tests"
 
     runs-on: ${{ matrix.operating-system }}
