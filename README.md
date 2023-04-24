@@ -126,3 +126,23 @@ Run PHPStan:
 ```
 php vendor/bin/phpstan analyze
 ```
+
+## Unit Tests
+
+Install PHPUnit
+
+```
+composer require --dev symfony/test-pack
+```
+
+Run Unit Tests
+
+```
+php bin/phpunit
+```
+
+<details>
+
+This command automatically runs your application tests. Each test is a PHP class ending with "Test" (e.g. `BlogControllerTest`) that lives in the `tests/` directory of your application.
+
+</details>
