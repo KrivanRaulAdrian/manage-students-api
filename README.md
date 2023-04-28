@@ -60,7 +60,7 @@ php -S localhost:8000 -t public
 
 8. Go to http://localhost:8000
 
-**\*Note:** To generate the JWT security [keypair], use a Linux container running the following command: `docker-compose run -it php-fpm php bin/console lexik:jwt:generate-keypair`.\*
+**\*Note:** To generate the JWT security [keypair], use a Linux container running the following command: `docker-compose run -it php-fpm php bin/console lexik:jwt:generate-keypair`\*
 
 ## Routes <hr/>
 
