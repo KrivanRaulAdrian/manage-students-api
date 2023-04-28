@@ -37,7 +37,7 @@ cd manage-students-api/
 composer install
 ```
 
-4. Go to MySQL and create the database `manage-students-api `
+4. Go to MySQL and create the database `manage-students-api`
 5. Create a file `.env.local` and add your database connection. Example:
 
 ```dotenv
