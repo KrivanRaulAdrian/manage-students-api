@@ -41,7 +41,7 @@ composer install
 5. Create a file `.env.local` and add your database connection. Example:
 
 ```dotenv
-DATABASE_URL="mysql://root:@localhost:3306/manage_students_api"
+DATABASE_URL="mysql://root:@localhost:3306/manage-students-api"
 ```
 
 6. Create the tables:
